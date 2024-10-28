@@ -358,6 +358,9 @@ https://github.com/user-attachments/assets/b722136b-58bb-420a-840a-5b10d5f3a6f8
 
 Google collab link for reference of outputs: https://colab.research.google.com/drive/1uPaHjXZQ9KdQXlXMtUUSRUD0mHVEf29B?usp=sharing
 
+# Visualizing attention maps
+![take1](https://github.com/user-attachments/assets/96711a87-7dad-44cf-a201-cb8934c925b2)
+![take2](https://github.com/user-attachments/assets/29be0a6c-1d70-48a4-beef-5e74e5ca03fd)
 # Best performing models
 Checkpoint 12.pth:https://drive.google.com/file/d/1GLhUpK1yzNEmeqQlWTsJkxiuuU-8VJUO/view
 
