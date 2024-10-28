@@ -351,10 +351,16 @@ Re-Evaluating the results on the validation-set:
     dn_box_noise_scale=1.0
 ```
 
-Download Fine tuned model:https://drive.google.com/file/d/1GLhUpK1yzNEmeqQlWTsJkxiuuU-8VJUO/view
+# Best performing models
+Checkpoint 12.pth:https://drive.google.com/file/d/1GLhUpK1yzNEmeqQlWTsJkxiuuU-8VJUO/view
+Checkpoint 12.pth with augmentation:https://drive.google.com/file/d/1-1lpswVAVb0XFAbxAE4yAAd24fJoitGO/view?usp=sharing
+Checkpoint 36.pth:https://drive.google.com/file/d/11ePpHzJBwrA5kIbxG47VD9jfaH5ibyVN/view?usp=sharing
+Checkpoint 36.pth with augmentation:https://drive.google.com/file/d/1-1j3HiB74yn0C_9lHEgrRuLU7qr1nz_c/view?usp=sharing
 
-**the test.ipynb part of the code is also present in the last part of the Final_Dino.ipynb
-
+#Other fine-tuned models
+Checkpoint 24.pth: https://drive.google.com/file/d/1-9PaPmKYzXF3hn-dYw62LNfqUJSRa39e/view?usp=sharing
+Checkpoint 24.pth with augmentation:https://drive.google.com/file/d/1ZOSmO-oO-A5fUTiS1SC2v5XxZThbXyHG/view?usp=sharing
+**the test.ipynb part of the code is also present in the last part of the updatedFinal_Dino.ipynb
 
 CREDENTIALS:
 
