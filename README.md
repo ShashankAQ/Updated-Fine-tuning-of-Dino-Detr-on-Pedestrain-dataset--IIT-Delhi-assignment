@@ -1,3 +1,13 @@
+# DINO-DETR Pedestrian Detection On Custom Dataset
+---
+
+Pedestrian Detection on Custom Dataset using an Attention Based Transformer Technique. NB includes visualizations of intermediate layers, sampling points of the best query and fine-tuning apart from regular inference.  
+
+![Annotated Image from the IIT-D Dataset](https://github.com/Aryan-Garg/DINO-DETR_Pedestrian_Detection/blob/95eaab6acafa8bcff2b39179d04392e9d2f27fe9/Screenshot%202023-06-05%20104950.jpg)
+
+---
+
+
 ## Model Zoo
 We have put our model checkpoints here [[model zoo in Google Drive]](https://drive.google.com/drive/folders/1qD5m1NmK0kjE5hh-G17XUX751WsEG-h_?usp=sharing)[[model zoo in 百度网盘]](https://pan.baidu.com/s/1St5rvfgfPwpnPuf_Oe6DpQ)（提取码"DINO"), where checkpoint{x}_{y}scale.pth denotes the checkpoint of y-scale model trained for x epochs. Our training logs are in [[Google Drive]](https://drive.google.com/drive/folders/1LrH68UBI9taubHQzhDf3R8gjFP8IiqJO).
 
