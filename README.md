@@ -353,6 +353,9 @@ Re-Evaluating the results on the validation-set:
     dn_label_coef=1.0 dn_bbox_coef=1.0 use_ema=False \
     dn_box_noise_scale=1.0
 ```
+# Video
+https://github.com/user-attachments/assets/b722136b-58bb-420a-840a-5b10d5f3a6f8
+
 Google collab link for reference of outputs: https://colab.research.google.com/drive/1uPaHjXZQ9KdQXlXMtUUSRUD0mHVEf29B?usp=sharing
 
 # Best performing models
