@@ -356,6 +356,8 @@ Re-Evaluating the results on the validation-set:
 # Video
 https://github.com/user-attachments/assets/b722136b-58bb-420a-840a-5b10d5f3a6f8
 
+YouTube link :https://youtu.be/7-j_-NEDkWw
+
 Google collab link for reference of outputs: https://colab.research.google.com/drive/1uPaHjXZQ9KdQXlXMtUUSRUD0mHVEf29B?usp=sharing
 
 # Visualizing attention maps
