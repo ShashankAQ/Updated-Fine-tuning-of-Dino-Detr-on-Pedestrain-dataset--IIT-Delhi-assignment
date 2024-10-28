@@ -378,8 +378,19 @@ Checkpoint 36.pth with augmentation:https://drive.google.com/file/d/1-1j3HiB74yn
 Checkpoint 24.pth: https://drive.google.com/file/d/1-9PaPmKYzXF3hn-dYw62LNfqUJSRa39e/view?usp=sharing
 
 Checkpoint 24.pth with augmentation:https://drive.google.com/file/d/1ZOSmO-oO-A5fUTiS1SC2v5XxZThbXyHG/view?usp=sharing
+# For best and accurate visualization :
+ ```sh
+  checkpoints = {
 
-**the test.ipynb part of the code is also present in the last part of the updatedFinal_Dino.ipynb
+    "checkpoint.pth": "/content/drive/MyDrive/checkpoint.pth",
+    "checkpoint24.pth":"/content/drive/MyDrive/checkpoint24norm.pth",
+    "checkpoint36.pth":"/content/drive/MyDrive/checkpoint36norm.pth",
+    "checkpoint12withaug.pth": "/content/drive/MyDrive/checkpoint12.pth",
+    "checkpoint24withaug.pth": "/content/drive/MyDrive/checkpoint24.pth",
+    "checkpoint36withaug.pth": "/content/drive/MyDrive/checkpoint36.pth"
+}
+   ```
+To enhance pedestrian detection performance, I implemented an ensemble of all available checkpoints instead of limiting the selection to just the four best-performing models from the validation set. By utilizing all checkpoints, the ensemble benefits from a wider range of learned features and patterns, resulting in improved predictions. 
 
 CREDENTIALS:
 
