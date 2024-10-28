@@ -3,6 +3,8 @@
 
 Pedestrian Detection on Custom Dataset using an Attention Based Transformer Technique. NB includes visualizations of intermediate layers, sampling points of the best query and fine-tuning apart from regular inference.  
 
+Please do check the isntructions before running the ipynb.file for running instructions
+
 ![Annotated Image from the IIT-D Dataset](https://github.com/Aryan-Garg/DINO-DETR_Pedestrian_Detection/blob/95eaab6acafa8bcff2b39179d04392e9d2f27fe9/Screenshot%202023-06-05%20104950.jpg)
 
 ---
@@ -353,13 +355,19 @@ Re-Evaluating the results on the validation-set:
 
 # Best performing models
 Checkpoint 12.pth:https://drive.google.com/file/d/1GLhUpK1yzNEmeqQlWTsJkxiuuU-8VJUO/view
+
 Checkpoint 12.pth with augmentation:https://drive.google.com/file/d/1-1lpswVAVb0XFAbxAE4yAAd24fJoitGO/view?usp=sharing
+
 Checkpoint 36.pth:https://drive.google.com/file/d/11ePpHzJBwrA5kIbxG47VD9jfaH5ibyVN/view?usp=sharing
+
 Checkpoint 36.pth with augmentation:https://drive.google.com/file/d/1-1j3HiB74yn0C_9lHEgrRuLU7qr1nz_c/view?usp=sharing
 
-#Other fine-tuned models
+# Other  models
+
 Checkpoint 24.pth: https://drive.google.com/file/d/1-9PaPmKYzXF3hn-dYw62LNfqUJSRa39e/view?usp=sharing
+
 Checkpoint 24.pth with augmentation:https://drive.google.com/file/d/1ZOSmO-oO-A5fUTiS1SC2v5XxZThbXyHG/view?usp=sharing
+
 **the test.ipynb part of the code is also present in the last part of the updatedFinal_Dino.ipynb
 
 CREDENTIALS:
