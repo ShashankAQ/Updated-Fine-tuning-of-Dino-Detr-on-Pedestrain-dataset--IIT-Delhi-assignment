@@ -7,6 +7,7 @@ Please do check the isntructions before running the ipynb.file for running instr
 
 ![Annotated Image from the IIT-D Dataset](https://github.com/Aryan-Garg/DINO-DETR_Pedestrian_Detection/blob/95eaab6acafa8bcff2b39179d04392e9d2f27fe9/Screenshot%202023-06-05%20104950.jpg)
 
+Google collab link: https://colab.research.google.com/drive/1uPaHjXZQ9KdQXlXMtUUSRUD0mHVEf29B?usp=sharing
 ---
 
 
@@ -352,6 +353,7 @@ Re-Evaluating the results on the validation-set:
     dn_label_coef=1.0 dn_bbox_coef=1.0 use_ema=False \
     dn_box_noise_scale=1.0
 ```
+Google collab link for reference of outputs: https://colab.research.google.com/drive/1uPaHjXZQ9KdQXlXMtUUSRUD0mHVEf29B?usp=sharing
 
 # Best performing models
 Checkpoint 12.pth:https://drive.google.com/file/d/1GLhUpK1yzNEmeqQlWTsJkxiuuU-8VJUO/view
